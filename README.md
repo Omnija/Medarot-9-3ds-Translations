@@ -31,6 +31,4 @@ Omnija & Sotaeko
 
 ## Screenshots
 
-![Intro](/docs/intro.png) ![Intro](/docs/intro-2.png)
-
 ![Intro](/docs/menu.png)
