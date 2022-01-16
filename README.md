@@ -33,3 +33,4 @@ Omnija & Sotaeko
 
 ![Intro](/docs/menu.png)![Intro](/docs/profile.png)
 ![Intro](/docs/shop.png)![Intro](/docs/stats.png)
+![Intro](/docs/robattle.png)
