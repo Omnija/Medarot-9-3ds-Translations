@@ -20,6 +20,11 @@ Option 1 -> Using LumaFS
 - Medabee Ver. - 0004000000174E00
 - Rokusho Ver. - 0004000000174F00
 
+### Extra Notes
+3. Update files need to be installed with the update cia. Lumafs
+will only work for the base game files. I'm not sure and have not
+tested whether all files will work installed via update cia.
+
 Option 2 -> Using Cia
 1. Decrypt then Extract CIA file
 2. Replace files with in the romfs + exefs
@@ -33,4 +38,4 @@ Omnija & Sotaeko
 
 ![Intro](/docs/menu.png)![Intro](/docs/profile.png)
 ![Intro](/docs/shop.png)![Intro](/docs/stats.png)
-![Intro](/docs/robattle.png)
+![Intro](/docs/robattle.png)![Intro](/docs/robattle2.png)
