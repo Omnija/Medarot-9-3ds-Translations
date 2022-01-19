@@ -37,6 +37,6 @@ Omnija & Sotaeko
 ## Screenshots
 
 ![Intro](/docs/menu.png)![Intro](/docs/profile.png)
-![Intro](/docs/shop.png)![Intro](/docs/stats.png)
+![Intro](/docs/medal.png)![Intro](/docs/stats.png)
 ![Intro](/docs/robattle.png)![Intro](/docs/robattle2.png)
-![Intro](/docs/warps.png)![Intro](/docs/network.png)
+![Intro](/docs/shop.png)![Intro](/docs/network.png)
