@@ -1,5 +1,5 @@
 # Medarot 9 3DS
-**DO NOT** Redistribute **WITHOUT** our **Credit** or **Permission**
+**DO NOT** Redistribute **WITHOUT** our **Credit** and **Permission**
 
 ![Intro](/docs/intro.png) ![Intro](/docs/intro-2.png)
 
