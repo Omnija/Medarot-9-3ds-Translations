@@ -38,7 +38,7 @@ Option 2 -> Using Cia
 Current Team:
 Omnija & Sotaeko
 
-## Screenshots
+### Screenshots
 
 ![Intro](/docs/menu.png)![Intro](/docs/profile.png)
 ![Intro](/docs/medal.png)![Intro](/docs/stats.png)
@@ -47,4 +47,11 @@ Omnija & Sotaeko
 ![Intro](/docs/popup.png)
 
 ## Future Features:
+
+We are hoping to evantually make a custom female protagonist.
+Since there wasn't an option of choosing between genders.
+This may also lead into other features we may want to look into.
+
+### Screenshots
+
 ![Intro](/docs/swapf.png)
