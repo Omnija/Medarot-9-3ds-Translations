@@ -44,7 +44,7 @@ Omnija & Sotaeko
 ![Intro](/docs/medal.png)![Intro](/docs/stats.png)
 ![Intro](/docs/robattle.png)![Intro](/docs/robattle2.png)
 ![Intro](/docs/shop.png)![Intro](/docs/network.png)
-![Intro](/docs/popup.png)
+![Intro](/docs/popup.png)![Intro](/docs/medalias.png)
 
 ## Future Features:
 
