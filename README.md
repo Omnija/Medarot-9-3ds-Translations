@@ -1,5 +1,5 @@
 # Medarot 9 3DS
-**DO NOT** Redistribute **WITHOUT** our **Credit** and **Permission**
+**DO NOT** Redistribute **WITHOUT** our **Credit** AND **Permission**
 
 ![Intro](/docs/intro.png) ![Intro](/docs/intro-2.png)
 
@@ -35,8 +35,8 @@ Option 2 -> Using Cia
 3. Rebuild and install
 
 ### Modders:
-Current Team:
-Omnija & Sotaeko
+Omnija -  Translator, Graphic Design, ROM Hacking  
+Sotaeko - Translator, Editor, Community Management
 
 ### Screenshots
 
