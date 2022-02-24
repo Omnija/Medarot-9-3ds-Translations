@@ -46,11 +46,13 @@ Sotaeko - Translator, Editor, Community Management
 ![Intro](/docs/shop.png)![Intro](/docs/network.png)
 ![Intro](/docs/popup.png)![Intro](/docs/medalias.png)
 
-## Future Features:
+## Optional Features:
 
-We are hoping to evantually make a custom female protagonist.
+We are hoping to eventually make a custom female protagonist.
 Since there wasn't an option of choosing between genders.
 This may also lead into other features we may want to look into.
+  
+>**[Female Protagonist Swap](https://github.com/Sotaeko/Medarot-9-3DS-Female-Hero)**
 
 ### Screenshots
 
