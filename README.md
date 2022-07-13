@@ -13,27 +13,6 @@ If you have any questions feel free to contact us.
 
 ## Version: 1.1
 
-### Installation:
-Option 1 -> Using LumaFS
-1. Place the patch's files into the /luma/titles/<titleID>folder on your SD card
-2. Game titleIDs are 16 characters long and start with 00040000
-- Medabee Ver. - 0004000000174E00
-- Rokusho Ver. - 0004000000174F00
-
-### Extra Notes
-3. Update files need to be installed with the update cia. Lumafs
-will only work for the base game files. I'm not sure and have not
-tested whether all files will work installed via update cia.
-
-(To fix update prompt)
-- Minor 3 
-- Micro 0
-
-Option 2 -> Using Cia
-1. Decrypt then Extract CIA file
-2. Replace files with in the romfs + exefs
-3. Rebuild and install
-
 ### Modders:
 Omnija -  Translator, Graphic Design, ROM Hacking  
 Sotaeko - Translator, Editor, Community Management
