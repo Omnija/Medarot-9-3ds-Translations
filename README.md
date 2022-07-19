@@ -14,8 +14,8 @@ If you have any questions feel free to contact us.
 ## Version: 1.1
 
 ### Modders:
-Omnija -  Translator, Graphic Design, ROM Hacking  
-Sotaeko - Translator, Editor, Community Management
+Omnija -  Translator, Artist, ROM Hacking  
+Sotaeko - Translator, Artist, Editor, Community Management
 
 ### Screenshots
 
